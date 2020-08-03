@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<KeymanDeveloperProjectUser>
+  <ViewState>
+    <tab>3</tab>
+    <showhelp>1</showhelp>
+    <path>C:\Users\keliv\Documents\Keyman Developer\release\sahaptin_yakima_full\release\s\sahaptin_yakima_full\sahaptin_yakima_full.kpj</path>
+  </ViewState>
+  <FileStates>
+    <FileState>
+      <ID>id_c303c824f6a4beb1ff0fa3b26fd1a9fe</ID>
+      <FullPath>C:\Users\keliv\Documents\Keyman Developer\Projects\sahaptin_yakima_full\source\sahaptin_yakima_full.kps</FullPath>
+      <IDEState>
+        <CodeFont>Consolas|-9|   |0</CodeFont>
+        <CharFont>Consolas|-9|   |0</CharFont>
+      </IDEState>
+    </FileState>
+    <FileState>
+      <ID>id_ede98e4633e239f933cbfd1f4e1b766c</ID>
+      <FullPath>C:\Users\keliv\Documents\Keyman Developer\Projects\sahaptin_yakima_full\HISTORY.md</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_53e892b8b41cc4caece1cfd5ef21d6e7</ID>
+      <FullPath>C:\Users\keliv\Documents\Keyman Developer\Projects\sahaptin_yakima_full\LICENSE.md</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_0730bb7c2e8f9ea2438b52e419dd86c9</ID>
+      <FullPath>C:\Users\keliv\Documents\Keyman Developer\Projects\sahaptin_yakima_full\README.md</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_097155686c968077846a36553263d361</ID>
+      <FullPath>C:\Users\keliv\Documents\Keyman Developer\Projects\sahaptin_yakima_full\sahaptin_yakima_full.keyboard_info</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_92a87dc807a638a8cb3564c8ad1ff7e2</ID>
+      <FullPath>C:\Users\keliv\Documents\Keyman Developer\Keyman\Projects\Ichishkiin\sahaptin_yakima_full\source\sahaptin_yakima_full.kmn</FullPath>
+      <IDEState>
+        <LayoutDisplay102Key>0</LayoutDisplay102Key>
+        <DebugDefaultFont>1</DebugDefaultFont>
+        <DebugFont>MS Sans Serif|8|   |1</DebugFont>
+        <CodeFont>Consolas|-9|   |0</CodeFont>
+        <CharFont>Consolas|-9|   |0</CharFont>
+      </IDEState>
+      <Debug>False</Debug>
+    </FileState>
+    <FileState>
+      <ID>id_8d8c5a30d8fa2ceaf78cb89f52f85101</ID>
+      <FullPath>C:\Users\keliv\Documents\Keyman Developer\Keyman\Projects\Ichishkiin\sahaptin_yakima_full\source\sahaptin_yakima_full.ico</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_5ec2147492fb1df913daeb5607992eca</ID>
+      <FullPath>C:\Users\keliv\Documents\Keyman Developer\Projects\sahaptin_yakima_full\source\..\..\..\release\sahaptin_yakima_full\release\s\sahaptin_yakima_full\sahaptin_yakima_full_layout.png</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_c953a4e06471185739d9a6b22731b257</ID>
+      <FullPath>C:\Users\keliv\Documents\Keyman Developer\Projects\sahaptin_yakima_full\source\..\..\..\release\sahaptin_yakima_full\release\s\sahaptin_yakima_full\sahaptin_yakima_full_layout_alt.png</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_ff767dca21818cd72d2161a74486d6e7</ID>
+      <FullPath>C:\Users\keliv\Documents\Keyman Developer\Projects\sahaptin_yakima_full\source\..\..\..\release\sahaptin_yakima_full\release\s\sahaptin_yakima_full\build\sahaptin_yakima_full.js</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_acce6049a83193c1a3086c2f3e7b0ac8</ID>
+      <FullPath>C:\Users\keliv\Documents\Keyman Developer\Projects\sahaptin_yakima_full\source\..\..\..\release\sahaptin_yakima_full\release\s\sahaptin_yakima_full\build\sahaptin_yakima_full.kvk</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_002ac7f101ae9df0e6c292245df509ee</ID>
+      <FullPath>C:\Users\keliv\Documents\Keyman Developer\Projects\sahaptin_yakima_full\source\..\..\..\release\sahaptin_yakima_full\release\s\sahaptin_yakima_full\build\sahaptin_yakima_full.kmx</FullPath>
+    </FileState>
+  </FileStates>
+  <MRU>
+    <File>
+      <ID>id_MRU0</ID>
+      <Filename>sahaptin_yakima_full.kmn</Filename>
+      <FileType>.kmn</FileType>
+      <FullPath>C:\Users\keliv\Documents\Keyman Developer\release\sahaptin_yakima_full\release\s\sahaptin_yakima_full\source\sahaptin_yakima_full.kmn</FullPath>
+    </File>
+    <File>
+      <ID>id_MRU1</ID>
+      <Filename>sahaptin_yakima_full.kps</Filename>
+      <FileType>.kps</FileType>
+      <FullPath>C:\Users\keliv\Documents\Keyman Developer\Projects\sahaptin_yakima_full\source\sahaptin_yakima_full.kps</FullPath>
+    </File>
+    <File>
+      <ID>id_MRU2</ID>
+      <Filename>sahaptin_yakima_full.kmn</Filename>
+      <FileType>.kmn</FileType>
+      <FullPath>C:\Users\keliv\Documents\Keyman Developer\Keyman\Projects\Ichishkiin\sahaptin_yakima_full\source\sahaptin_yakima_full.kmn</FullPath>
+    </File>
+    <File>
+      <ID>id_MRU3</ID>
+      <Filename>sahaptin_yakima_full.kmn</Filename>
+      <FileType>.kmn</FileType>
+      <FullPath>C:\Users\keliv\Documents\Keyman Developer\Projects\sahaptin_yakima_full\source\sahaptin_yakima_full.kmn</FullPath>
+    </File>
+  </MRU>
+</KeymanDeveloperProjectUser>
